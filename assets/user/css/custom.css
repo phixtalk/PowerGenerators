@@ -1,0 +1,32 @@
+/*
+Theme Name: Worthy - Free Powerful Theme by HtmlCoder
+Author:HtmlCoder
+Author URI:http://www.htmlcoder.me
+Version:1.0.0
+Created:November 2014
+License: Creative Commons Attribution 3.0 License (https://creativecommons.org/licenses/by/3.0/)
+File Description: Place here your custom CSS styles
+*/
+
+.longText {
+	word-break: break-all;
+	white-space: -moz-pre-wrap; /* Mozilla */
+	white-space: -o-pre-wrap; /* Opera 7 */
+		white-space: pre-wrap;  /* CSS 2.1 */
+	white-space: pre-line; /* CSS 3 */
+	word-wrap: break-word; /* IE */
+}
+
+.longTextWrapper td {
+	white-space: pre-line;
+}
+
+.rwd-table thead tr {
+	color:#ffffff;
+	background-color:#327ab8;
+}
+.rwd-table thead tr th {
+	color:#ffffff;
+	background-color:#327ab8;
+	font-weight:normal;
+}

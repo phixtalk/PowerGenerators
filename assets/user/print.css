@@ -1,0 +1,27 @@
+@charset "utf-8";
+/* CSS Document */
+
+body {
+	font: 100%/1.4 Verdana, Arial, Helvetica, sans-serif;
+	background:#FFF; /*#4E5869;*/
+	margin: 0;
+	padding: 0;
+	color: #000;
+}
+
+.noprint{
+	display:none;
+}
+.widget-box{
+	border:1px solid #fff;
+}
+.active {
+	display:none;
+}
+#sidebar{
+	display:none;
+}
+.panel-body {
+	width:100%;
+	
+}
