@@ -1,1 +1,1 @@
-An Online Sales Platform for Fuel and Diesel Power Generators
+An Online Generator Inventory & Sales Management Platform, With Administrative Backend Operations.
